@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tablayout" type="id" />
+    <item name="tab1" type="id" />
+    <item name="tab2" type="id" />
+    <item name="tab3" type="id" />
+    <item name="tv_gradepoint" type="id" />
+    <item name="tv_cred" type="id" />
+    <item name="et_cred1" type="id" />
+    <item name="et_cred2" type="id" />
+    <item name="et_cred3" type="id" />
+    <item name="et_gr3" type="id" />
+    <item name="et_gr4" type="id" />
+    <item name="et_cred4" type="id" />
+    <item name="et_cred5" type="id" />
+    <item name="et_gr5" type="id" />
+    <item name="btn_1" type="id" />
+    <item name="tv_ans" type="id" />
+    <item name="tv_gpa" type="id" />
+</resources>

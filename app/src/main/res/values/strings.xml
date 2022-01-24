@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MADfinal2</string>
+    <string name="btn_add">Add</string>
+    <string name="et_subject">Subject</string>
+    <string name="et_date">Date</string>
+    <string name="et_time">Time</string>
+    <string name="btn_open">Show</string>
+    <string name="tab1">Subjects</string>
+    <string name="tab2">TimeTable</string>
+    <string name="tab3">GPA Calculator</string>
+    <string name="tv_grade">Grade</string>
+    <string name="tv_cred">Credit</string>
+    <string name="btn_1">Calculate</string>
+    <string name="tv_ans">Your GPA</string>
+    <string name="tv_gradepoint">Grade point</string>
+    <string name="tabb2">Examinations</string>
+    <string name="btn_time">Timetable</string>
+    <string name="btn_calculator">GPA Calculator</string>
+</resources>
